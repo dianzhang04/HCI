@@ -1,0 +1,16 @@
+dlib==20.0.0
+librosa==0.11.0
+matplotlib==3.10.8
+mediapipe==0.10.14
+mne==1.11.0
+numpy==2.4.2
+opencv_contrib_python==4.11.0.86
+opencv_python==4.11.0.86
+pandas==3.0.1
+Pillow==12.1.1
+Requests==2.32.5
+scikit_learn==1.8.0
+scipy==1.17.1
+streamlit==1.54.0
+torch==2.10.0+cu130
+tqdm==4.67.3
